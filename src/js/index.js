@@ -41,7 +41,7 @@ async function checkWeather(city) {
     }
 
     displayWeather.style.display = "block";
-     error.style.display = "none";
+    error.style.display = "none";
   }
 }
 
